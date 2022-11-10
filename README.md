@@ -38,7 +38,7 @@
 <h3 align="center">Taco Bros Shared Repo</h3>
 
   <p align="center">
-    project_description
+    READ_ME still working in progress
     <br />
     <a href="[https://github.com/MattiaGug/shared-repo](https://github.com/MattiaGug/shared-repo)"><strong>Explore the docs »</strong></a>
     <br />

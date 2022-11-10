@@ -40,7 +40,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/MattiaGug/shared-repo"><strong>Explore the docs »</strong></a>
+    <a href="[https://github.com/MattiaGug/shared-repo](https://github.com/MattiaGug/shared-repo)"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Mattgugo/shared-repo">View Demo</a>

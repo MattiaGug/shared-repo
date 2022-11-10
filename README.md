@@ -35,7 +35,7 @@
      height="400">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Taco Bros Shared Repo</h3>
 
   <p align="center">
     project_description

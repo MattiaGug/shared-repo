@@ -31,7 +31,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mattgugo/shared-repo">
-    <img src="https://github.com/MattiaGug/shared-repo/blob/main/taco%20bros.png?raw=true">
+    <img src="https://github.com/MattiaGug/shared-repo/blob/main/taco%20bros.png?raw=true" width="400" 
+     height="400">
   </a>
 
 <h3 align="center">project_title</h3>

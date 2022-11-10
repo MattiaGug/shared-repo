@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mattgugo/shared-repo">
-    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-taco&psig=AOvVaw3nP_kP_J59s-LNwfvH_gFi&ust=1668158470840000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjB_tmko_sCFQAAAAAdAAAAABAE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F004%2F217%2F776%2Foriginal%2Fcute-taco-cartoon-design-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4217776-cute-taco-cartoon-vector-design&tbnid=x61QxRi6JmqouM&vet=10CAQQxiAoBWoXChMIuMH-2aSj-wIVAAAAAB0AAAAAEAc..i&docid=lIpcS3LMgP078M&w=1920&h=1920&itg=1&q=taco%20image&ved=0CAQQxiAoBWoXChMIuMH-2aSj-wIVAAAAAB0AAAAAEAc)" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MattiaGug/shared-repo/blob/main/taco%20bros.png?raw=true">
   </a>
 
 <h3 align="center">project_title</h3>

@@ -229,5 +229,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Vue-url]: https://vuejs.org/
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[R.org]: [https://www.r-project.org](https://www.r-project.org/)
-[R-url]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+[R.org]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+[R-url]: https://www.r-project.org/

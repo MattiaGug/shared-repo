@@ -92,10 +92,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### In this Repo the projects and documentation will concern: 
 
-* [![Vue.js][Vue.js]][Vue-url]
 * [![Python][Python.org]][Python-url]
+* [![Vue.js][Vue.js]][Vue-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

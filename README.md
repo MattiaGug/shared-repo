@@ -135,6 +135,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Mattia Gugole - [@twitter_handle](https://twitter.com/twitter_handle) - mattia.gugole@icloud.com
+Tommaso Piraldi - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
 
 
 

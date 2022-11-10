@@ -40,14 +40,14 @@
   <p align="center">
     READ_ME still working in progress
     <br />
-    <a href="[https://github.com/MattiaGug/shared-repo](https://github.com/MattiaGug/shared-repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MattiaGug/shared-repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Mattgugo/shared-repo">View Demo</a>
     ·
-    <a href="https://github.com/Mattgugo/shared-repo/issues">Report Bug</a>
+    <a href="https://github.com/MattiaGug/shared-repo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Mattgugo/shared-repo/issues">Request Feature</a>
+    <a href="https://github.com/MattiaGug/shared-repo/issues">Request Feature</a>
   </p>
 </div>
 
@@ -155,7 +155,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MattiaGug/shared-repo/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,16 +212,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Mattgugo/shared-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Mattgugo/shared-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Mattgugo/shared-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mattgugo/shared-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mattgugo/shared-repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/shared-repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/MattiaGug/shared-repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MattiaGug/shared-repo.svg?style=for-the-badge
+[forks-url]: https://github.com/MattiaGug/shared-repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/MattiaGug/shared-repo.svg?style=for-the-badge
+[stars-url]: https://github.com/MattiaGug/shared-repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MattiaGug/shared-repo.svg?style=for-the-badge
 [issues-url]: https://github.com/MattiaGug/shared-repo.git/issues
-[license-shield]: https://img.shields.io/github/license/Mattgugo/shared-repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/MattiaGug/shared-repo.svg?style=for-the-badge
+[license-url]: https://github.com/MattiaGug/shared-repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mattia-gugole
 [product-screenshot]: images/screenshot.png

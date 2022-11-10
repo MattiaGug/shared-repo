@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mattgugo/shared-repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-taco&psig=AOvVaw3nP_kP_J59s-LNwfvH_gFi&ust=1668158470840000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjB_tmko_sCFQAAAAAdAAAAABAE)" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>

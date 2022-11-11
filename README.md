@@ -103,10 +103,11 @@ All the projects included in this repo will be for private use only. Everything 
     
 ## Roadmap Mat 
 
-- [ ] Feature 1
+- [ ] Julia
+  - [ ] Basics of Julia
 - [ ] Feature 2
 - [ ] Feature 3
-    - [ ] Nested Feature
+    
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

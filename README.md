@@ -16,7 +16,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url1]
+[![LinkedIn][linkedin-shield]][linkedin-url2]
   
 </div>
 
@@ -153,7 +154,8 @@ Tommaso Piraldi - [@twitter_handle](https://twitter.com/twitter_handle) - tommas
 [license-shield]: https://img.shields.io/github/license/MattiaGug/shared-repo.svg?style=for-the-badge
 [license-url]: https://github.com/MattiaGug/shared-repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mattia-gugole
+[linkedin-url1]: https://linkedin.com/in/mattia-gugole
+[linkedin-url2]: https://linkedin.com/in/mattia-gugole
 [product-screenshot]: images/screenshot.png
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/

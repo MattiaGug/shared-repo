@@ -81,7 +81,9 @@
 
 * [![Python][Python.org]][Python-url]
 * [![R][R.org]][R-url]
+* [![Julia][Julia.org]][Julia-url]
 * [![Vue.js][Vue.js]][Vue-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,3 +166,5 @@ Tommaso Piraldi - [@twitter_handle](https://twitter.com/twitter_handle) - tommas
 [Python-url]: https://www.python.org/
 [R.org]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [R-url]: https://www.r-project.org/
+[Julia.org]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white
+[Julia-url]: https://julialang.org/

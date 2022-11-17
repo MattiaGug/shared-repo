@@ -1,0 +1,4 @@
+For loop is the most common type of loop. 
+The other type of loop is while loop. 
+Loops are very cool. 
+
